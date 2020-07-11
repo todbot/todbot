@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- https://blink1.thingm.com/
+- https://todbot.com/blog/
+
 <!--
 **todbot/todbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

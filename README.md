@@ -3,6 +3,8 @@
 - https://blink1.thingm.com/
 - https://todbot.com/blog/
 
+- https://gists.github.com/todbot
+
 <!--
 **todbot/todbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

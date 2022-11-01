@@ -5,8 +5,8 @@
 
 - https://gists.github.com/todbot
 
-- <a rel="me" href="https://mastodon.social/@todbot">@todbot@mastodon.social</a>
-- 
+- [@todbot@mastodon.social](rel="me" https://mastodon.social/@todbot)
+
 <!--
 **todbot/todbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
